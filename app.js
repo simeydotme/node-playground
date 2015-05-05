@@ -1,10 +1,24 @@
 
-var express = require("express"),
-    session = require("express-session"),
-    handlebars = require("express-handlebars"),
-    i18n = require("i18n");
 
-var country = require("./bin/getCountry");
+
+/* core modules */
+var express =   require("express"),
+    cookies =   require("cookie-parser"),
+    session =   require("express-session"),
+    i18n =      require("i18n");
+
+
+
+/* routing definitions */
+var routes =    require("./routes/definitions");
+
+
+
+/* configuration */
+var folder =    "./config/",
+    inter =     require( folder + "i18n/setup" ),
+    hbs =       require( folder + "handlebars/setup" );
+
 
 
 
@@ -13,34 +27,12 @@ var country = require("./bin/getCountry");
 var app = express();
 
     app.use("/assets", express.static("public"));
+    app.use(session({ secret: "keyboard cat" }));
+    app.use(cookies());
 
-    app.use(session({
-        secret: "keyboard cat"
-    }));
-
-
-
-
-
-
-var hbs = handlebars.create({
-
-        helpers: {
-            __: function( text ) { return i18n.__( text ); }
-        },
-
-        defaultLayout: "main", 
-        extname: ".hbs" 
-
-    });
-
-
-    i18n.configure({
-
-        locales:["en", "zh_cn"],
-        directory: __dirname + "/locales"
-
-    });
+    for( var route in routes ) {
+        app.use( routes[route] );
+    }
 
     app.engine(".hbs", hbs.engine );
     app.set("view engine", ".hbs");
@@ -51,14 +43,6 @@ var hbs = handlebars.create({
 
 
 
-    app.get("/", function (req, res) {
-
-        var lang = country.getCountry( req );
-        console.log( req.session );
-
-        res.render( "home", { lang: lang });
-
-    });
 
 
     var server = app.listen(3000, function () {
@@ -66,6 +50,6 @@ var hbs = handlebars.create({
         var host = server.address().address;
         var port = server.address().port;
 
-        console.log("Example app listening at http://%s:%s", host, port);
+        console.log("Lane Crawford E-Store Running at http://%s:%s", host, port);
 
     });
