@@ -19,9 +19,9 @@
 
         router.get("/", function (req, res) {
 
-            res.render( "home", { lang: req.session.country });
+            res.render( "home/home", { lang: req.session.country });
 
         });
-
+        
 
     module.exports = router;

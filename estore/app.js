@@ -11,6 +11,7 @@ var express =   require("express"),
 
 /* routing definitions */
 var routes =    require("./routes/definitions");
+var error404 =  require("./routes/errors/404");
 
 
 
@@ -33,6 +34,11 @@ var app = express();
     for( var route in routes ) {
         app.use( routes[route] );
     }
+
+    app.use( error404 );
+
+
+    
 
     app.engine(".hbs", hbs.engine );
     app.set("view engine", ".hbs");

@@ -1,0 +1,189 @@
+{
+  "availabilityWidgetInfo": {
+    "collectAtStoreTitle": "Collect At Store:",
+    "deliveryTitle": "Delivery:",
+    "isCollectAtStoreOnly": "false",
+    "isInStoreOnly": "false",
+    "isLastOne": "true",
+    "productStatus": "normal",
+    "title": "Last One"
+  },
+  "colorSwatchList": [],
+  "displayProductStatus": "normal",
+  "essentialInfo": {
+    "brandId": "17900003",
+    "brandName": "COMMON PROJECTS",
+    "description": "Gaining popularity amongst modern gents with a sumptuous rendition of minimalistic designs, Common Projects crafted these classic skate slip-ons with a monotone suede upper for a luxe uplift. Maintaining a snug fit with a padded collar and elasticated side gores, this pair will keep you at ease throughout the day.",
+    "displayName": "Suede skate slip-ons",
+    "heroImage": "http://media.lanecrawford.com/Q/R/I/QRI138_in_xl.jpg",
+    "lcStyleCodes": "500267516",
+    "productBu": "men",
+    "productCat1": "Menswear",
+    "productCat2": "Shoes",
+    "productCode": "500267516",
+    "productId": "QRI138",
+    "thumbnails": {
+      "tips": {
+        "backImage": "Back View - ",
+        "detail1Image": "Detail View - ",
+        "detail2Image": "Detail View - ",
+        "indexImage": "Main View - ",
+        "onFigureImage": "Figure View - "
+      },
+      "xl": {
+        "backImage": "http://media.lanecrawford.com/Q/R/I/QRI138_bk_xl.jpg",
+        "detail1Image": "http://media.lanecrawford.com/Q/R/I/QRI138_1_xl.jpg",
+        "detail2Image": "http://media.lanecrawford.com/Q/R/I/QRI138_2_xl.jpg",
+        "indexImage": "http://media.lanecrawford.com/Q/R/I/QRI138_in_xl.jpg",
+        "onFigureImage": "http://media.lanecrawford.com/Q/R/I/QRI138_ro_xl.jpg"
+      },
+      "xs": {
+        "backImage": "http://media.lanecrawford.com/Q/R/I/QRI138_bk_xs.jpg",
+        "detail1Image": "http://media.lanecrawford.com/Q/R/I/QRI138_1_xs.jpg",
+        "detail2Image": "http://media.lanecrawford.com/Q/R/I/QRI138_2_xs.jpg",
+        "indexImage": "http://media.lanecrawford.com/Q/R/I/QRI138_in_xs.jpg",
+        "onFigureImage": "http://media.lanecrawford.com/Q/R/I/QRI138_ro_xs.jpg"
+      }
+    },
+    "url": "/product/common-projects/suede-skate-slip-ons/_/QRI138/product.lc"
+  },
+  "inventory": 1,
+  "isProductStatusShowSizeWidget": true,
+  "nonreturnable": false,
+  "priceInfo": {
+    "additionalMessage": "",
+    "cnSalePrice": 3420,
+    "dialogContentFragmentId": "",
+    "discountPrice": 0,
+    "discountType": null,
+    "hkSalePrice": 3450,
+    "isPriceControl": false,
+    "isProductOnSale": false,
+    "listPirce": "HK$3,450",
+    "priceControlMessage": "fixed price",
+    "productPrice": "HK$3,450",
+    "salePirce": "HK$3,450",
+    "savePercentage": "",
+    "status": true,
+    "taxMessage": ""
+  },
+  "productStatus": "normal",
+  "productStatusErrorMessage": {},
+  "productUrl": "/product/common-projects/suede-skate-slip-ons/_/QRI138/product.lc",
+  "quantityWidgetInfo": {
+    "max": "1",
+    "showQtyWidget": "none"
+  },
+  "recentlyViewed": [
+    {
+      "brandName": "COMMON PROJECTS",
+      "imageErrorUrl": "http://media.lanecrawford.com/images/img_coming_soon_en_s.jpg",
+      "indexImageUrl": "http://media.lanecrawford.com/Q/R/I/QRI138_in_s.jpg",
+      "isOnSale": "false",
+      "onFigureImageUrl": "http://media.lanecrawford.com/Q/R/I/QRI138_ro_s.jpg",
+      "origPrice": "HK$3,450",
+      "price": "HK$3,450",
+      "productFlag": "",
+      "productId": "QRI138",
+      "productName": "Suede skate slip-ons",
+      "productStatus": "normal",
+      "productUrl": "/product/common-projects/suede-skate-slip-ons/_/QRI138/product.lc"
+    },
+    {
+      "brandName": "VALENTINO",
+      "imageErrorUrl": "http://media.lanecrawford.com/images/img_coming_soon_en_s.jpg",
+      "indexImageUrl": "http://media.lanecrawford.com/G/K/W/GKW435_in_s.jpg",
+      "isOnSale": "false",
+      "onFigureImageUrl": "http://media.lanecrawford.com/G/K/W/GKW435_ro_s.jpg",
+      "origPrice": "HK$18,800",
+      "price": "HK$18,800",
+      "productFlag": "",
+      "productId": "GKW435",
+      "productName": "Lace box pleat skirt",
+      "productStatus": "normal",
+      "productUrl": "/product/valentino/lace-box-pleat-skirt/_/GKW435/product.lc"
+    }
+  ],
+  "sizeSwatchList": [
+    {
+      "hasStock": "false",
+      "productId": "QRI138",
+      "productUrl": "/product/common-projects/suede-skate-slip-ons/_/QRI138/product.lc",
+      "publicationStatus": "Public",
+      "size": "EU 39",
+      "skuId": "QRI138-EU 39"
+    },
+    {
+      "hasStock": "true",
+      "productId": "QRI138",
+      "productUrl": "/product/common-projects/suede-skate-slip-ons/_/QRI138/product.lc",
+      "publicationStatus": "Public",
+      "size": "EU 40",
+      "skuId": "QRI138-EU 40"
+    },
+    {
+      "hasStock": "false",
+      "productId": "QRI138",
+      "productUrl": "/product/common-projects/suede-skate-slip-ons/_/QRI138/product.lc",
+      "publicationStatus": "Public",
+      "size": "EU 41",
+      "skuId": "QRI138-EU 41"
+    },
+    {
+      "hasStock": "false",
+      "productId": "QRI138",
+      "productUrl": "/product/common-projects/suede-skate-slip-ons/_/QRI138/product.lc",
+      "publicationStatus": "Public",
+      "size": "EU 42",
+      "skuId": "QRI138-EU 42"
+    },
+    {
+      "hasStock": "true",
+      "productId": "QRI138",
+      "productUrl": "/product/common-projects/suede-skate-slip-ons/_/QRI138/product.lc",
+      "publicationStatus": "Public",
+      "size": "EU 43",
+      "skuId": "QRI138-EU 43"
+    },
+    {
+      "hasStock": "true",
+      "productId": "QRI138",
+      "productUrl": "/product/common-projects/suede-skate-slip-ons/_/QRI138/product.lc",
+      "publicationStatus": "Public",
+      "size": "EU 44",
+      "skuId": "QRI138-EU 44"
+    },
+    {
+      "hasStock": "false",
+      "productId": "QRI138",
+      "productUrl": "/product/common-projects/suede-skate-slip-ons/_/QRI138/product.lc",
+      "publicationStatus": "Public",
+      "size": "EU 45",
+      "skuId": "QRI138-EU 45"
+    }
+  ],
+  "supportiveInfoTabs": [
+    {
+      "detailsAndCareInstructions": {},
+      "detailsAndCareText": "<li>Dark grey suede with gold-tone number print on outer heel</li><li>Padded topline</li><li>White elasticated side gore</li><li>Round toe</li><li>Leather insole and leather lining</li><li>White rubber sneaker outsole</li><li>Designer shoe bag included</li><li>Made in Italy</li>",
+      "isDisplayDefault": "true",
+      "materialContent": "100% Suede upper / 100% Rubber sole",
+      "tab": "tab1",
+      "title": "PRODUCT INFORMATION"
+    },
+    {
+      "isAutoCrossSell": "false",
+      "isDisplayDefault": "true",
+      "isGiftCardProduct": "false",
+      "sizeAndFit": "<li>Product measures: Heel 3cm</li><li>True to labelled size</li>",
+      "tab": "tab2",
+      "title": "FIT & STYLING"
+    },
+    {
+      "content": "<p>Delivery service is available for this item, and is covered by our Return &amp; Exchange Policy. For more information, please refer to <a href=\"http://www.lanecrawford.com/info/shipping.jsp#C1\">Delivery &amp; Shipping</a> and <a href=\"http://www.lanecrawford.com/info/returnsNExchanges.jsp\">Return &amp; Exchange</a>.</p>",
+      "isDisplayDefault": "true",
+      "tab": "tab3",
+      "title": "Shipping & Return"
+    }
+  ]
+}

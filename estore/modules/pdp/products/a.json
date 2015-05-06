@@ -1,0 +1,178 @@
+{
+  "availabilityWidgetInfo": {
+    "collectAtStoreTitle": "Collect At Store:",
+    "deliveryTitle": "Delivery:",
+    "isCollectAtStoreOnly": "false",
+    "isInStoreOnly": "false",
+    "isLastOne": "true",
+    "productStatus": "normal",
+    "title": "Last One"
+  },
+  "colorSwatchList": [],
+  "displayProductStatus": "normal",
+  "essentialInfo": {
+    "brandId": "700300",
+    "brandName": "VALENTINO",
+    "description": "This Valentino lace skirt is a party perfect separate with its fitted form and delicate lace overlay. Featuring a box pleat front and slightly gathered for a hint of volume, it is best paired with a monotone silk blouse for a refined look of sophistication.",
+    "displayName": "Lace box pleat skirt",
+    "heroImage": "http://media.lanecrawford.com/G/K/W/GKW435_in_xl.jpg",
+    "lcStyleCodes": "101239557",
+    "productBu": "women",
+    "productCat1": "Womenswear",
+    "productCat2": "Clothing",
+    "productCode": "101239557",
+    "productId": "GKW435",
+    "thumbnails": {
+      "tips": {
+        "backImage": "Back View - ",
+        "detail1Image": "Detail View - ",
+        "frontImage": "Front View - ",
+        "indexImage": "Main View - ",
+        "onFigureImage": "Figure View - "
+      },
+      "xl": {
+        "backImage": "http://media.lanecrawford.com/G/K/W/GKW435_bk_xl.jpg",
+        "detail1Image": "http://media.lanecrawford.com/G/K/W/GKW435_1_xl.jpg",
+        "frontImage": "http://media.lanecrawford.com/G/K/W/GKW435_fr_xl.jpg",
+        "indexImage": "http://media.lanecrawford.com/G/K/W/GKW435_in_xl.jpg",
+        "onFigureImage": "http://media.lanecrawford.com/G/K/W/GKW435_ro_xl.jpg"
+      },
+      "xs": {
+        "backImage": "http://media.lanecrawford.com/G/K/W/GKW435_bk_xs.jpg",
+        "detail1Image": "http://media.lanecrawford.com/G/K/W/GKW435_1_xs.jpg",
+        "frontImage": "http://media.lanecrawford.com/G/K/W/GKW435_fr_xs.jpg",
+        "indexImage": "http://media.lanecrawford.com/G/K/W/GKW435_in_xs.jpg",
+        "onFigureImage": "http://media.lanecrawford.com/G/K/W/GKW435_ro_xs.jpg"
+      }
+    },
+    "url": "/product/valentino/lace-box-pleat-skirt/_/GKW435/product.lc"
+  },
+  "inventory": 1,
+  "isProductStatusShowSizeWidget": true,
+  "nonreturnable": false,
+  "priceInfo": {
+    "additionalMessage": "",
+    "dialogContentFragmentId": "",
+    "discountPrice": 0,
+    "discountType": null,
+    "hkSalePrice": 18800,
+    "isPriceControl": false,
+    "isProductOnSale": false,
+    "listPirce": "HK$18,800",
+    "priceControlMessage": "fixed price",
+    "productPrice": "HK$18,800",
+    "salePirce": "HK$18,800",
+    "savePercentage": "",
+    "status": true,
+    "taxMessage": ""
+  },
+  "productStatus": "normal",
+  "productStatusErrorMessage": {},
+  "productUrl": "/product/valentino/lace-box-pleat-skirt/_/GKW435/product.lc",
+  "quantityWidgetInfo": {
+    "max": "1",
+    "showQtyWidget": "none"
+  },
+  "recentlyViewed": [
+    {
+      "brandName": "VALENTINO",
+      "imageErrorUrl": "http://media.lanecrawford.com/images/img_coming_soon_en_s.jpg",
+      "indexImageUrl": "http://media.lanecrawford.com/G/K/W/GKW435_in_s.jpg",
+      "isOnSale": "false",
+      "onFigureImageUrl": "http://media.lanecrawford.com/G/K/W/GKW435_ro_s.jpg",
+      "origPrice": "HK$18,800",
+      "price": "HK$18,800",
+      "productFlag": "",
+      "productId": "GKW435",
+      "productName": "Lace box pleat skirt",
+      "productStatus": "normal",
+      "productUrl": "/product/valentino/lace-box-pleat-skirt/_/GKW435/product.lc"
+    }
+  ],
+  "sizeSwatchList": [
+    {
+      "hasStock": "false",
+      "productId": "GKW435",
+      "productUrl": "/product/valentino/lace-box-pleat-skirt/_/GKW435/product.lc",
+      "publicationStatus": "Public",
+      "size": "38",
+      "skuId": "GKW435-38"
+    },
+    {
+      "hasStock": "true",
+      "productId": "GKW435",
+      "productUrl": "/product/valentino/lace-box-pleat-skirt/_/GKW435/product.lc",
+      "publicationStatus": "Public",
+      "size": "40",
+      "skuId": "GKW435-40"
+    },
+    {
+      "hasStock": "true",
+      "productId": "GKW435",
+      "productUrl": "/product/valentino/lace-box-pleat-skirt/_/GKW435/product.lc",
+      "publicationStatus": "Public",
+      "size": "42",
+      "skuId": "GKW435-42"
+    }
+  ],
+  "supportiveInfoTabs": [
+    {
+      "detailsAndCareInstructions": {
+        "bleach": {
+          "icon": "bleaching_a",
+          "instructionKey": "a",
+          "tips": "Bleach",
+          "title": "Do not bleach",
+          "type": "bleach"
+        },
+        "dryClean": {
+          "icon": "dry_clean_e",
+          "instructionKey": "e",
+          "tips": "Dry Clean",
+          "title": "Gentle P - solvent dry cleaning",
+          "type": "dryClean"
+        },
+        "iron": {
+          "icon": "ironing_b",
+          "instructionKey": "b",
+          "tips": "Iron",
+          "title": "Iron at 110 degrees, steam ironing may cause irreversible damage",
+          "type": "iron"
+        },
+        "tumbleDry": {
+          "icon": "tumble_drying_a",
+          "instructionKey": "a",
+          "tips": "Tumble Dry",
+          "title": "Do not tumble dry",
+          "type": "tumbleDry"
+        },
+        "wash": {
+          "icon": "washing_a",
+          "instructionKey": "a",
+          "tips": "Wash",
+          "title": "Do not wash",
+          "type": "wash"
+        }
+      },
+      "detailsAndCareText": "<li>Slate grey blue with floral lace overlay</li><li>Wool-silk blend base</li><li>Box pleat front and gathered skirt at the waistband</li><li>Flat waistband and concealed back zip with hook-and-eye secure</li><li>Inseam side pockets</li><li>Silk lining</li><li>Made in Italy</li>",
+      "isDisplayDefault": "true",
+      "materialContent": "77% Cotton, 17% Viscose, 6% Polyamide",
+      "tab": "tab1",
+      "title": "PRODUCT INFORMATION"
+    },
+    {
+      "isAutoCrossSell": "true",
+      "isDisplayDefault": "true",
+      "isGiftCardProduct": "false",
+      "sizeAndFit": "<li>Model wears size IT38 and is 178cm tall</li><li>Product measures: Length 43cm / Waist 68cm / Hip 94cm</li><li>Fitted</li><li>True to labelled size</li>",
+      "tab": "tab2",
+      "title": "FIT & STYLING"
+    },
+    {
+      "content": "<p>Delivery service is available for this item, and is covered by our Return &amp; Exchange Policy. For more information, please refer to <a href=\"http://www.lanecrawford.com/info/shipping.jsp#C1\">Delivery &amp; Shipping</a> and <a href=\"http://www.lanecrawford.com/info/returnsNExchanges.jsp\">Return &amp; Exchange</a>.</p>",
+      "isDisplayDefault": "true",
+      "tab": "tab3",
+      "title": "Shipping & Return"
+    }
+  ]
+}

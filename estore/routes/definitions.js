@@ -1,7 +1,7 @@
 
     module.exports = {
 
-        base: require("./base"),
+        base: require("./home"),
         pdp: require("./pdp")
 
     };
