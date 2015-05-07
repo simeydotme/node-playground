@@ -33,3 +33,27 @@ button {
     cursor: pointer;
 
 }
+
+
+.pdp-wrapper {
+    
+    float: none;
+    clear: both;
+    overflow: hidden;
+
+}
+
+.recent-item {
+    
+    display: inline-block;
+    width: 200px;
+    padding: 10px;
+    border-right: 1px dotted;
+
+}
+
+.recent-item img { 
+
+    max-height: 96px;
+
+}

@@ -1,0 +1,20 @@
+    
+    {{#if recent }}
+
+        <hr>
+
+        <h3>Recently Viewed:</h3>
+
+        {{#each recent }}
+        
+            <div class="recent-item">
+                <a href="/pdp/{{ essentialInfo.productId }}">
+                    {{ essentialInfo.displayName }}<br>
+                    <img src="{{ essentialInfo.thumbnails.xs.detail1Image }}" alt="{{ essentialInfo.displayName }}">
+                </a>
+
+            </div>
+
+        {{/each}}
+
+    {{/if}}

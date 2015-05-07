@@ -1,11 +1,18 @@
 
     {{> header }}
     
-    {{> pdp/header }}
     
-    {{> pdp/hero }}
-    
-    <hr>
+    <div class="pdp-wrapper">
 
-    <button>{{ __ "checkout" }}</button>
+        {{> pdp/header }}
+        
+        {{> pdp/hero }}
+        
+        <hr>
+
+        <button>{{ __ "checkout" }}</button>
+
+    </div>
     
+    
+    {{> pdp/recent }}
